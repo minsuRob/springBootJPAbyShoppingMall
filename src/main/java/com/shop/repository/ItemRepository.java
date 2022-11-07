@@ -1,6 +1,6 @@
 package com.shop.repository;
 
-import com.shop.constant.Item;
+import com.shop.entity.Item;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
